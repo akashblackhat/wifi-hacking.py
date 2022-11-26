@@ -44,6 +44,17 @@
     cd wifi-hacking.py
     ls
     sudo python3 wifi-hacking.py
+# Root Termux Installation : 
+    apt update 
+    apt install git 
+    apt install python
+    apt install python3
+    apt install cmatrix
+    git clone clone https://github.com/akashblackhat/wifi-hacking.py.git
+    ls
+    cd wifi-hacking.py
+    ls
+    python3 wifi-hacking.py
 # Disclaimer :
 * Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 😄 !!!
 * Hacking is not a crime 
