@@ -1,5 +1,6 @@
 # wifi-hacking
-![0_fGnIMEeeF5QDrlzT](https://user-images.githubusercontent.com/88341460/204087243-ce397ef6-80a3-490c-8c6b-c0cedec16b20.jpg)
+![0_fGnIMEeeF5QDrlzT (3)](https://user-images.githubusercontent.com/88341460/204089350-9d4d2490-57de-467d-9717-9cf8b5ecee97.jpg)
+
 
 # Feutures and Containt :
     1)Start monitor mode
@@ -36,6 +37,9 @@
 * Termux ( Rooted Devices)
 
 * Parrot OS
+# demo
+![akash](https://user-images.githubusercontent.com/88341460/204089153-9dfe7cb7-426d-4be7-bbe0-d1b77a8fe621.jpg)
+
 # Installation
 # Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update && apt-get install git
