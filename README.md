@@ -59,6 +59,8 @@
     cd wifi-hacking.py
     ls
     python3 wifi-hacking.py
+# tools video
+ * https://youtu.be/uamB2WopwF4
 # Disclaimer :
 * Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
 * Hacking is not a crime 
