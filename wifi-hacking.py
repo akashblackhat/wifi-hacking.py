@@ -2,7 +2,8 @@
 # AUTHOR  : AKASH BLACK HAT                                               #
 # WHATSAPP: +91 8389020949                                                #
 # HACKING GROUP :https://www.facebook.com/AKASHBLACKHAT                   #
-# YOUTUBE : TECHNICAL AKASH SKILLS                                        #
+# YOUTUBE : TECHNICAL AKASH SKILLS 
+#  TIP     : FUCK YOU HATERS
 ###########################################################################
 
 # Coader/AkashBlackHat
