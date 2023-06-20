@@ -1,8 +1,5 @@
 ###########################################################################
 # AUTHOR  : AKASH BLACK HAT                                               #
-# WHATSAPP: +91 8389020949                                                #
-# HACKING GROUP :https://www.facebook.com/AKASHBLACKHAT                   #
-# YOUTUBE : TECHNICAL AKASH SKILLS 
 #  TIP     : FUCK YOU HATERS
 ###########################################################################
 
@@ -26,9 +23,6 @@ def intro():
 ╚███╔███╔╝██║██║     ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝    
  ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 Author  : AKASH BLACK HAT
-YouTub  : TECHNICAL AKASH SKILLS 
-Group   : https://www.facebook.com/AKASHBLACKHAT
-WhatsApp: +91 8389020949
 -------------------------------------------------------------------------  
 (1)Start monitor mode       
 (2)Stop monitor mode
