@@ -38,8 +38,6 @@
 
 * Parrot OS
 # demo
-![akash](https://user-images.githubusercontent.com/88341460/204089153-9dfe7cb7-426d-4be7-bbe0-d1b77a8fe621.jpg)
-
 # Installation
 # Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update && apt-get install git
