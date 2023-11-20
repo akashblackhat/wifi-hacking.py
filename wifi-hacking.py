@@ -39,7 +39,7 @@ Author  : AKASH BLACK HAT
 (0)About Me
 (00)Exit
 ----------------------------------------------------------------------- """)
-    print("\nEnter your choise here : !# ")
+    print("\nEnter your choice here : !# ")
     var = int(input(""))
     if var == 1 :
         print("\nEnter the interface:(Default(wlan0/wlan1))")
