@@ -3,27 +3,26 @@
 
 
 # Feutures and Containt :
-    1)Start monitor mode
+            1) Start monitor mode
+            2) Stop monitor mode
+            3) Scan networks
+            4) Capture handshake
+            5) Install wireless tools
+            6) Crack handshake (rockyou.txt)
+            7) Crack handshake with custom wordlist
+            8) Crack handshake without wordlist
+            9) Create wordlist
+            10) Perform WPS attack
+            11) Scan network with Nmap
+            12) Run Metasploit exploit
+            13) Brute-force login with Hydra
+            14) Perform phishing attack with Wifiphisher
+            15) Scan web server with Nikto
+            16) Listen with Netcat
+            17) Brute-force directories with Gobuster
+            18) Perform SQL Injection with SQLMap
+            0) Exit
 
-    2)Stop monitor mode
-
-    3)Scan Networks   
-
-    4)Getting Handshake
-
-    5)Create wordlist
-
-    6)Install Wireless tools                  
-
-    7)WPS Networks attacks 
-
-    8)Scan for WPS Networks
-
-    9)Crack Handshake with rockyou.txt
-
-    10)Crack Handshake with wordlist
-
-    11)Crack Handshake without wordlist
 # Tested On Hackers :
 
 * Kali Linux
@@ -58,7 +57,7 @@
     ls
     python3 wifi-hacking.py
 # tools video
- * https://youtu.be/uamB2WopwF4
+ * @akashblackhat
 # Disclaimer :
 * Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose 🏴 !!!
 * Hacking is not a crime 
